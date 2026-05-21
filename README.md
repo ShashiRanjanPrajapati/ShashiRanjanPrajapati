@@ -80,11 +80,11 @@
 
 ### ⚙️ Backend & CMS
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,wordpress" />
+<img src="https://skillicons.dev/icons?i=wordpress" />
 
 ### 🔧 Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vercel,netlify,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vercel,netlify" />
 
 </div>
 
