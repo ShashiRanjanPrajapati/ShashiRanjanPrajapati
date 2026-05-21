@@ -35,11 +35,6 @@
 - API integrations
 - Real-time web applications
 
-🌱 Currently learning:
-- Backend Development
-- Node.js
-- Advanced System Design
-
 <br clear="both"/>
 
 ---
@@ -169,7 +164,6 @@ const shashi = {
         "GSAP",
         "Framer Motion"
     ],
-    currentlyLearning: "Node.js & Backend",
     passion: "Building smooth & modern web experiences"
 };
 ```
