@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Shashi Ranjan
-### Frontend Developer | React & Next.js Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Hi+👋,+I'm+Shashi+Ranjan;Frontend+Developer+from+India;React.js+%7C+Next.js+Developer;Creating+Modern+UI%2FUX+Experiences;Passionate+About+Animations+%26+Performance" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+<img src="https://user-images.githubusercontent.com/74038190/212750119-84f2c6f6-86c3-4d7d-9b8c-cb2d7c7b1d89.gif" width="100%">
 
 </div>
 
@@ -11,40 +10,113 @@
 
 # 💫 About Me
 
-- 🔭 Currently working on modern web applications  
-- ⚡ Passionate about building responsive and interactive UI  
-- 💬 Ask me about React, Next.js, JavaScript & Frontend Development  
-- 🚀 Focused on performance, clean UI, and scalable apps  
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🚀 Frontend Developer with **3+ years of experience** building scalable and high-performance web applications.
+
+💻 Specialized in:
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- Modern UI/UX Development
+
+✨ Passionate about:
+- Clean & reusable code
+- Responsive design
+- Smooth animations
+- Performance optimization
+- User-centric experiences
+
+⚡ Experienced with:
+- GSAP animations
+- Framer Motion
+- WordPress Headless CMS
+- API integrations
+- Real-time web applications
+
+🌱 Currently learning:
+- Backend Development
+- Node.js
+- Advanced System Design
+
+<br clear="both"/>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shashi-ranjan-prajapati/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shashi-ranjan-prajapati">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+
+<a href="https://github.com/ShashiRanjanPrajapati">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ranjankumarshashi9955@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-### UI & Styling
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 💻 Frontend Development
 
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,sass" />
+
+### 🎨 UI / Animation Libraries
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+<p>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend & CMS
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,wordpress" />
+
+### 🔧 Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vercel,netlify,vscode" />
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Webomindapps Pvt Ltd — Frontend Developer
+
+### 🔹 Pinelabs – Website Revamp
+- 🚀 Improved page load speed by **40%**
+- 🎯 Increased user engagement by **30%**
+- ✨ Built smooth GSAP animations
+- ⚡ Implemented Framer Motion transitions
+- 🔥 Optimized API performance by **35%**
+
+### 🔹 Witzo AI – AI Chatbot Platform
+- 💻 Developed complete application using Next.js
+- 🤖 Built AI chat interfaces with modern UI/UX
+- 📊 Created full admin dashboard
+- 🖼️ Implemented Picture-in-Picture (PiP) functionality
+
+### 🔹 A1Steel – CMS-Based Platform
+- 🌐 Developed responsive Next.js website
+- ⚙️ Integrated WordPress Headless CMS APIs
+- 🧮 Built real-time calculator functionality
+- 📦 Managed dynamic product configurations
 
 ---
 
@@ -52,11 +124,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShashiRanjanPrajapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashiRanjanPrajapati&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiRanjanPrajapati&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -66,22 +138,67 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=ShashiRanjanPrajapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
 ---
 
-# ✨ Quote
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Shashi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShashiRanjanPrajapati&theme=tokyo-night)](https://github.com/ShashiRanjanPrajapati)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/ShashiRanjanPrajapati/ShashiRanjanPrajapati/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```javascript
+const shashi = {
+    role: "Frontend Developer",
+    experience: "3+ Years",
+    techStack: [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "GSAP",
+        "Framer Motion"
+    ],
+    currentlyLearning: "Node.js & Backend",
+    passion: "Building smooth & modern web experiences"
+};
+```
+
+---
+
+# ✨ Random Dev Quote
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Building Modern Web Experiences
+<img src="https://komarev.com/ghpvc/?username=ShashiRanjanPrajapati&label=Profile+Views&color=0e75b6&style=flat"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+### 🚀 Building Fast, Interactive & Scalable Web Applications
 
 </div>
