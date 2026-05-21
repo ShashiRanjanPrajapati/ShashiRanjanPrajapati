@@ -106,29 +106,17 @@
 - ⚡ Implemented Framer Motion transitions
 - 🔥 Optimized API performance by **35%**
 
-### 🔹 Witzo AI – AI Chatbot Platform
-- 💻 Developed complete application using Next.js
-- 🤖 Built AI chat interfaces with modern UI/UX
-- 📊 Created full admin dashboard
-- 🖼️ Implemented Picture-in-Picture (PiP) functionality
-
-### 🔹 A1Steel – CMS-Based Platform
-- 🌐 Developed responsive Next.js website
-- ⚙️ Integrated WordPress Headless CMS APIs
-- 🧮 Built real-time calculator functionality
-- 📦 Managed dynamic product configurations
-
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShashiRanjanPrajapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashiRanjanPrajapati&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashiRanjanPrajapati&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -138,9 +126,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShashiRanjanPrajapati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
+
+---
+
 
 ---
 
